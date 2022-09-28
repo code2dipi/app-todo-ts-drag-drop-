@@ -17,7 +17,6 @@ const App: React.FC=()=> {
       setTodo(""); // empty the todo in input field
     }
     
-
    }
 
   const onDragEnd=(result:DropResult)=>{
@@ -52,7 +51,6 @@ const App: React.FC=()=> {
     setTodos(active)
 
   }
-
   return (
     <DragDropContext onDragEnd={onDragEnd}>
     <div className="App">
