@@ -1,7 +1,9 @@
 # Getting Started with Create Todo App  with Typescript and React
-- This app is developed in Typescript with drag and drop features. 
+This project was developed in Typescript with drag and drop features. You can perform CRUD operation 
+ for your daily task in interactive way.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/docs/adding-typescript/).
+
 
 ## Available Scripts
 
